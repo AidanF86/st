@@ -1,7 +1,7 @@
-Aidan Foley's build of st
+Aidan Foley's build of st (from https://st.suckless.org)
 
-Uses FiraCode-Medium with ligatures
-Colors are that of gruvbox
+Mainly uses FiraCode-Medium with ligatures and Gruvbox colors
+Uses JoyPixels for emojis
 
 The .diff files that I used for the patches are in the "applied_patches" folder.
 Patch list:
@@ -11,6 +11,6 @@ boxdraw - https://st.suckless.org/patches/boxdraw/
 font2 - https://st.suckless.org/patches/font2/
 gruvbox - https://st.suckless.org/patches/gruvbox/
 ligatures (boxdraw version) - https://st.suckless.org/patches/ligatures/
-scroolback (w/ scrollback-mouse as well) - https://st.suckless.org/patches/scrollback/
+scrollback (w/ scrollback-mouse as well) - https://st.suckless.org/patches/scrollback/
 
 For installation just run "make install", although probably with sudo
